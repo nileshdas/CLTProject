@@ -1,0 +1,14 @@
+Vivado Simulator 2015.4
+Copyright 1986-1999, 2001-2015 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2015.4/bin/unwrapped/win64.o/xelab.exe -wto efef79bf14a242c7ad9f880359b04c38 --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot test_clt_behav xil_defaultlib.test_clt xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-278] actual bit length 32 differs from formal bit length 1 for port Yin [C:/Users/ece/Desktop/midsem/CLT_project/CLT_project.srcs/sim_1/new/test_clt.v:30]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.CLT
+Compiling module xil_defaultlib.test_clt
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot test_clt_behav
